@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Github Portifolio</string>
+    <string name="label_toolbar">App Repositories</string>
+    <string name="label_menu_search">Pesquisar</string>
+</resources>
